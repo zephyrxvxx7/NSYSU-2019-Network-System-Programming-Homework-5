@@ -1,1 +1,9 @@
+# Ignore all executable files
+*
+!*.*
+!*/
+
+# Ignore all objects files
+*.o
+
 .devcontainer
